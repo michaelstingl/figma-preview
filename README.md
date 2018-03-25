@@ -22,6 +22,6 @@ http://localhost:8080/?file=Ui4YzD3oQcxJSbzBEr80O9eU&node-id=18:646&format=.debu
 
 ## Demo (live embeds)
 
-https://www.figma.com/file/Ui4YzD3oQcxJSbzBEr80O9eU/Working-Draft-UI?node-id=523%3A2671 |  https://www.figma.com/file/Ui4YzD3oQcxJSbzBEr80O9eU/Working-Draft-UI?node-id=26%3A1454 |  https://www.figma.com/file/Ui4YzD3oQcxJSbzBEr80O9eU/Working-Draft-UI?node-id=18%3A646
---- | --- | ---
 ![Image 1/3](http://mst.works/figma-preview/?file=Ui4YzD3oQcxJSbzBEr80O9eU&node-id=523:2671&format=.png) | ![Image 2/3](http://mst.works/figma-preview/?file=Ui4YzD3oQcxJSbzBEr80O9eU&node-id=26:1454&format=.png) | ![Image 3/3](http://mst.works/figma-preview/?file=Ui4YzD3oQcxJSbzBEr80O9eU&node-id=18:646&format=.png)
+--- | --- | ---
+Source: [Figma URL](https://www.figma.com/file/Ui4YzD3oQcxJSbzBEr80O9eU/Working-Draft-UI?node-id=523%3A2671) |  Source: [Figma URL](https://www.figma.com/file/Ui4YzD3oQcxJSbzBEr80O9eU/Working-Draft-UI?node-id=26%3A1454) |  Source: [Figma URL](https://www.figma.com/file/Ui4YzD3oQcxJSbzBEr80O9eU/Working-Draft-UI?node-id=18%3A646)
