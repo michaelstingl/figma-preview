@@ -26,7 +26,7 @@ http://localhost:8080/?file=Ui4YzD3oQcxJSbzBEr80O9eU&node-id=18:646&format=.debu
 --- | --- | ---
 Source: [Figma URL](https://www.figma.com/file/Ui4YzD3oQcxJSbzBEr80O9eU/Working-Draft-UI?node-id=523%3A2671) |  Source: [Figma URL](https://www.figma.com/file/Ui4YzD3oQcxJSbzBEr80O9eU/Working-Draft-UI?node-id=26%3A1454) |  Source: [Figma URL](https://www.figma.com/file/Ui4YzD3oQcxJSbzBEr80O9eU/Working-Draft-UI?node-id=18%3A646)
 
-**Notes about image handling on GitHub.com:**
+### Notes about image handling on GitHub.com
 
 > If you upload an image to GitHub, the URL of the image will be modified so your information is not trackable.
 > 
@@ -35,3 +35,8 @@ Source: [Figma URL](https://www.figma.com/file/Ui4YzD3oQcxJSbzBEr80O9eU/Working-
 > Anyone who receives your anonymized image URL, directly or indirectly, may view your image. To keep sensitive images private, restrict them to a private network or a server that requires authentication instead of using Camo.
 
 Source: https://help.github.com/articles/about-anonymized-image-urls/
+
+### Special thanks
+
+- [@patrickjahns](https://github.com/patrickjahns) helping with `json_decode`and *resilience*
+
