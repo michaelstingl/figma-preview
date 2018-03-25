@@ -3,8 +3,9 @@
 // ===== ===== ===== ===== ===== ===== ===== ===== ===== ======
 // 
 // Run local:
-// git clone git@github.com:michaelstingl/figma-preview.git
+// git clone https://github.com/michaelstingl/figma-preview.git
 // cd figma-preview
+// sed -i -e 's/XX-XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX/replace-with-your-personal-access-token/g'  index.php
 // php -S localhost:8080
 // 
 // Return image data:
