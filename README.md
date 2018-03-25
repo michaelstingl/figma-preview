@@ -1,5 +1,5 @@
 # figma-preview
-Get rendered *.PNG from Figma node
+Get rendered *.PNG from Figma node using the [Figma API](https://www.figma.com/developers/docs)
 
 This is only a PoC for local testing. It is not recommended to run in production!!!
 
